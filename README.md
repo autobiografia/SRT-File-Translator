@@ -27,8 +27,8 @@ install SRT-File-Translator dependencies with pip
 | `-lt / --language-to` | `string` | **Not Required**. Language to translate to |
 
 ## Demo
-
-![](https://github.com/autobiografia/SRT-File-Translator/demo.gif)
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+![](https://github.com/autobiografia/SRT-File-Translator/blob/main/demo.gif)
 ## Roadmap / v1
 
 - Code cleaner
