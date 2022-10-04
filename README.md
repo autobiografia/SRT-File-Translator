@@ -27,7 +27,7 @@ Install SRT-File-Translator dependencies with pip
 
 ## Demo
 
-![](https://github.com/autobiografia/SRT-File-Translator/demo.mp4)
+![](https://github.com/autobiografia/SRT-File-Translator/blob/main/demo.mp4)]
 
 ## Roadmap / v1
 
