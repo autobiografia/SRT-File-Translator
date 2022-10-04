@@ -6,7 +6,8 @@ This project was made to translate all subtitles in a directory.
 
 ## Installation
 
-Install SRT-File-Translator dependencies with pip
+Download the source code and
+install SRT-File-Translator dependencies with pip
 
 ```bash
   pip install -r requirements.txt
@@ -27,8 +28,7 @@ Install SRT-File-Translator dependencies with pip
 
 ## Demo
 
-![](https://github.com/autobiografia/SRT-File-Translator/demo.mp4)
-
+![](https://github.com/autobiografia/SRT-File-Translator/demo.gif)
 ## Roadmap / v1
 
 - Code cleaner
