@@ -37,6 +37,6 @@ install SRT-File-Translator dependencies with pip
 
 ## Support
 
-For support, please contact us via BrS or Telegram [@heyo](https://t.me/uemano).
+For support, please contact us via Telegram [@uemano](https://t.me/uemano).
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
